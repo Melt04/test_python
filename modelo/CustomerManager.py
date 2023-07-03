@@ -1,5 +1,5 @@
 from db.ConnectionManager import DbConnection
-from model.Customer import Customer
+from entidad.Customer import Customer
 
 class CustomerManager:
     def __init__(self):
